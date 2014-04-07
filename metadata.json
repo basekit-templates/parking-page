@@ -1,0 +1,147 @@
+{
+    "name":"Parking Page",
+    "thumbnail":"mauris.png",
+    "screenshot":"mauris.png",
+    "pageTypes": ["default", "home"],
+    "tags": {
+    "en": ["clean", "menu", "ecommerce", "shop"],
+    "es": ["limpio", "menú", "ecommerce", "tienda"],
+    "br": ["limpo", "menu", "ecommerce", "loja"]
+    },
+    "colorSwatches":
+    {
+        "Swatch 1": {
+            "color1":"#ffffff",
+            "color2":"#ffffff",
+            "color3":"#0a7d99",
+            "color4":"#0a7d99",
+            "color5":"#000000",
+            "color6":"#ffffff",
+            "color7":"#0d3647"
+        },
+        "Swatch 2": {
+            "color1":"#ffffff",
+            "color2":"#ffffff",
+            "color3":"#5f90a5",
+            "color4":"#2b6c87",
+            "color5":"#666d6f",
+            "color6":"#ffffff",
+            "color7":"#666d6f"
+        },
+        "Swatch 3": {
+            "color1":"#ffffff",
+            "color2":"#ffffff",
+            "color3":"#558179",
+            "color4":"#1e3631",
+            "color5":"#465853",
+            "color6":"#ffffff",
+            "color7":"#1e3631"
+        },
+        "Swatch 4": {
+            "color1":"#ffffff",
+            "color2":"#ffffff",
+            "color3":"#898794",
+            "color4":"#555167",
+            "color5":"#58525a",
+            "color6":"#ffffff",
+            "color7":"#55525a"
+        },
+        "Swatch 5": {
+            "color1":"#ffffff",
+            "color2":"#ffffff",
+            "color3":"#78b0b8",
+            "color4":"#46858e",
+            "color5":"#000000",
+            "color6":"#ffffff",
+            "color7":"#46858e"
+        }
+    },
+    "fontSwatch": {
+       "title": "Lato",
+        "font1": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "40px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font2": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "30px",
+            "font-weight": "inherit",
+            "line-height": "40px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28px",
+            "color": "darken(@color-swatch4,10%)",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "26px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "26px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "color": "@color-swatch6",
+            "color-hover": "@color-swatch6",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1"
+        },
+        "font7": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "color": "@color-swatch6",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "darken(@color-swatch3,5%)"
+        },
+        "font8": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "28px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font10": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "40px",
+            "color": "@color-swatch2",
+            "letter-spacing": "inherit"
+        }
+    }
+}
