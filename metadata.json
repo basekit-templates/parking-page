@@ -2,7 +2,7 @@
     "name":"Parking Page",
     "thumbnail":"mauris.png",
     "screenshot":"mauris.png",
-    "pageTypes": ["default", "home"],
+    
     "tags": {
     "en": ["clean", "menu", "ecommerce", "shop"],
     "es": ["limpio", "menú", "ecommerce", "tienda"],
